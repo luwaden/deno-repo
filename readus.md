@@ -1,3 +1,3 @@
 # DENO
 
-Practice makes perfect
+Practice makes perfection
